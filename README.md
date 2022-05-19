@@ -1,4 +1,4 @@
-## Oiii eu sou a Pedro Henrique, mais conhecido como Gelado, e sou estudante de Ciencia da Computacao!
+## Sou Pedro Henrique, mais conhecido como Gelado, e sou estudante de Ciencia da Computacao!
 <div align="center">
   <a href="https://github.com/pedroicemaan">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=pedroicemaan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
